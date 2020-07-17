@@ -1,0 +1,11 @@
+Step 1: Extract this .rar file
+Step 2: Install Django Framework in your Terminal/Cmd Prompt (pip install Django)
+Step 3: Go to the file Path NewsAggregator/NewsScraper on your Terminal.
+Step 4: Type Command python manage.py runserver
+Step 5: You will get the Url to open on your Web Browser or type (http://127.0.0.1:8000/) on your Web Browser
+Step 6: Goto News Channel & Fetch More News and Your News will be Updated and you will be Redirected to index.html Page Again Visit the News Channel for More News.
+
+***THANK YOU***
+Project By:
+RA1711003030437 (Jasmeet Singh Arora)
+RA1711003030445 (Riya Sharma)
